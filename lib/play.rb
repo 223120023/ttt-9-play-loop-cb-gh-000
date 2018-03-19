@@ -43,5 +43,3 @@ def play(board)
     currentTurn+=1
   end
 end
-
-    
